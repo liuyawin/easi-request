@@ -1,7 +1,7 @@
 {
   "name": "easi-request",
   "version": "1.0.0",
-  "description": "This is a easy http request util.",
+  "description": "This is an easy http request util based on axios.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
